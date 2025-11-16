@@ -1,1 +1,2 @@
-Open the link here: file:///Users/roshnim/Documents/calculator/index.html
+Open the link here:
+///Users/roshnim/Documents/calculator/index.html
